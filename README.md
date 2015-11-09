@@ -8,6 +8,8 @@
 
 > The **dynamic** stylesheet language. [http://lesscss.org](http://lesscss.org).
 
+_This fork of Less.js is dedicated to a [patched version](https://github.com/mediaxtend/less-autocompile) of Atom module [less-autocompile](https://github.com/lohek/less-autocompile) to permit [JavaScript expression evaluation](https://github.com/less/less.js/blob/master/lib/less/tree/js-eval-node.js)_
+
 This is the JavaScript, official, stable version of Less.
 
 
